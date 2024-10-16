@@ -1,0 +1,33 @@
+#Base{
+    height:1200px;
+    width:1000px;
+    position: absolute;
+    right:250px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color:beige;
+}
+div{
+    height:200px;
+    width:1000px;
+}
+#Two{
+    padding-left: 50px;
+}
+#Three{
+    padding-left: 50px;
+}
+#Four{
+    padding-left: 50px;
+}
+#Five{
+    padding-top: 20px;
+    padding-left: 50px;
+}
+#Six{
+    padding-left: 50px;
+}
+#One{
+    padding-right:80px;
+}
